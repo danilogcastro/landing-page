@@ -1,0 +1,27 @@
+.cards {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.card-info {
+  align-items: center;
+  background-color: white;
+  box-shadow: 1px 1px 15px rgb(140, 140, 140);
+  border-radius: 4px;
+  width: 200px;
+  padding: 20px;
+  margin: 12px 20px;
+}
+
+.card-info img {
+  margin-top: 20px;
+}
+
+.card-title {
+  color: #003049;
+}
+
+.card-text {
+  color: rgb(100, 100, 100);
+}
+
